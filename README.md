@@ -1,10 +1,11 @@
+<div align="center"> <img src="./readme-elements/nuclear.png" width="10%"/> </div>
 
 <h1 align="center" >
-    <img vertical-align="middle" src="./readme-elements/pizza.png" width="4%"/> 
+    <!-- <img vertical-align="middle" src="./readme-elements/pizza.png" width="4%"/>  -->
 <span vertical-align="middle"> Power Tanks </span>
-    <img vertical-align="middle" src="./readme-elements/pizza.png" width="4%" style="transform: scaleX(-1);"/> 
+    <!-- <img vertical-align="middle" src="./readme-elements/pizza.png" width="4%" style="transform: scaleX(-1);"/>  -->
 </h2>
-<div align="center"> <img src="./readme-elements/nuclear.png" width="15%"/> </div>
+
 
 My last ever Flash game, developed in 2020, the year when [Flash met it's end](https://www.reddit.com/r/technology/comments/knsskh/flash_dies_today_december_31st_2020_is_officially/). One day I'll port it to a modern framework, but in the meantime, I'd prefer it to be posted here as is, rather than becoming yet another piece of [lost media](https://en.wikipedia.org/wiki/Lost_media).
 
