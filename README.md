@@ -20,7 +20,8 @@
 
 ## Installation
 ### Windows
-1. Download `PowerTanks.swf` and `FlashPlayer.exe`
-2. Drag and drop the `.swf` file in `FlashPlayer.exe`
+1. Download `PowerTanks.swf` from this repo.
+2. Download the `FlashPlayer.exe` from [archive.org/flashplayer](https://archive.org/details/flashplayer-11_202503). Direct url to `.exe` file is [here](https://ia600708.us.archive.org/14/items/flashplayer-11_202503/flashplayer%2011.exe).
+3. Drag and drop the `.swf` file in `FlashPlayer.exe`
 ### Linux
-Flash Player for Linux doesn't work too well, so using a Windows virtual machine for steps 1. and 2. is recommended.
+Flash Player for Linux doesn't work too well, so using a Windows virtual machine for Windows steps is recommended.
