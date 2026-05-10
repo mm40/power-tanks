@@ -24,4 +24,4 @@
 2. Download the [FlashPlayer.exe](https://ia600708.us.archive.org/14/items/flashplayer-11_202503/flashplayer%2011.exe) from [archive.org/flashplayer](https://archive.org/details/flashplayer-11_202503).
 3. Drag and drop the `.swf` file in `FlashPlayer.exe`
 ### Linux
-Flash Player for Linux doesn't work too well, so using a Windows virtual machine for Windows steps is recommended.
+Flash Player for Linux doesn't work too well, so using a Windows virtual machine for Windows steps is recommended. Readily available 12GiB `VHDX` and `QCOW2` images of Windows preinstalled are available [here](https://cloudbase.it/windows-cloud-images/#download). When starting the VM for the first time, the screen might go black for a while, just wait it out.
