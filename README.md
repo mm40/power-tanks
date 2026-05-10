@@ -46,6 +46,7 @@ My last ever Flash game, developed in 2020, the year when [Flash met it's end](h
     Installation
     <img src="./readme-elements/tank-icon.png" width="2.5%" /> 
 </h2>
+
 ### Windows
 1. Download [PowerTanks.swf](https://github.com/mm40/power-tanks/raw/refs/heads/main/PowerTanks.swf) from this repo.
 2. Download the [FlashPlayer.exe](https://ia600708.us.archive.org/14/items/flashplayer-11_202503/flashplayer%2011.exe) from [archive.org/flashplayer](https://archive.org/details/flashplayer-11_202503).
