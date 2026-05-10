@@ -2,7 +2,7 @@
 
 <h1 align="center" >
     <!-- <img vertical-align="middle" src="./readme-elements/pizza.png" width="4%"/>  -->
-<span vertical-align="middle"> Power Tanks </span>
+<span vertical-align="middle"> POWER TANKS </span>
     <!-- <img vertical-align="middle" src="./readme-elements/pizza.png" width="4%" style="transform: scaleX(-1);"/>  -->
 </h2>
 
