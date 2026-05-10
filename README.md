@@ -8,13 +8,13 @@
 
 My last ever Flash game, developed in 2020, the year when [Flash met it's end](https://www.reddit.com/r/technology/comments/knsskh/flash_dies_today_december_31st_2020_is_officially/). One day I'll port it to a modern framework, but in the meantime, I'd prefer it to be posted here as is, rather than becoming yet another piece of [lost media](https://en.wikipedia.org/wiki/Lost_media).
 
-<center>
+
 <h2> 
     <img src="./readme-elements/tank-icon.png" width="2.5%" /> 
     Keyboard Shortcuts 
     <img src="./readme-elements/tank-icon.png" width="2.5%" /> 
 </h2>
-</center>
+
 
 <center>
 
@@ -31,13 +31,21 @@ My last ever Flash game, developed in 2020, the year when [Flash met it's end](h
 
 </center>
 
-## Features
+<h2> 
+    <img src="./readme-elements/tank-icon.png" width="2.5%" /> 
+    Features
+    <img src="./readme-elements/tank-icon.png" width="2.5%" /> 
+</h2>
 - **Box2D engine**: powers all the flawless physics.
 - **Particle systems**: shrapnels, smoke, explosions, and other effects, aren't animations, but particle systems. Each one is different.
 - **A\* pathfinding**: for those more advanced enemies that will chase you.
 - **Level editor**: all levels are created using a built-in level editor, and saved as plain text files.
 
-## Installation
+<h2> 
+    <img src="./readme-elements/tank-icon.png" width="2.5%" /> 
+    Installation
+    <img src="./readme-elements/tank-icon.png" width="2.5%" /> 
+</h2>
 ### Windows
 1. Download [PowerTanks.swf](https://github.com/mm40/power-tanks/raw/refs/heads/main/PowerTanks.swf) from this repo.
 2. Download the [FlashPlayer.exe](https://ia600708.us.archive.org/14/items/flashplayer-11_202503/flashplayer%2011.exe) from [archive.org/flashplayer](https://archive.org/details/flashplayer-11_202503).
