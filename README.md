@@ -9,7 +9,8 @@
 </h2>
 
 <center>
-https://github.com/user-attachments/assets/ca52e0ec-fe48-41a5-8b55-20235eb58553
+<video src="https://github.com/user-attachments/assets/ca52e0ec-fe48-41a5-8b55-20235eb58553" width="800" height="600" controls></video>
+
 </center>
 
 My last ever Flash game, developed in 2020, the year when [Flash met it's end](https://www.reddit.com/r/technology/comments/knsskh/flash_dies_today_december_31st_2020_is_officially/). One day I'll port it to a modern framework, but in the meantime, I'd prefer it to be posted here as is, rather than becoming yet another piece of [lost media](https://en.wikipedia.org/wiki/Lost_media).
