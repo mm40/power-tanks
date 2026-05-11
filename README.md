@@ -69,6 +69,10 @@ Flash Player for Linux doesn't work too well, so using a Windows virtual machine
 </h2>
 
 <div align="center">
+
+
+![Annotations](https://github.com/user-attachments/assets/4d28595a-d682-42f2-9590-1b788066a24f)
+
 <img style="padding: 10px;" width="800" height="580" alt="mpv-04_26_08-00_00_03_512-0010" src="https://github.com/user-attachments/assets/4d28595a-d682-42f2-9590-1b788066a24f" />
 <img style="padding: 10px;" width="800" height="579" alt="mpv-04_19_56-00_00_03_221-0002" src="https://github.com/user-attachments/assets/4581135d-78a5-410f-9821-c178fb14c655" />
 <img style="padding: 10px;" width="800" height="579" alt="mpv-04_21_11-00_00_23_418-0004" src="https://github.com/user-attachments/assets/b86ab774-24dd-4414-bdd6-8b3c9db6eb76" />
