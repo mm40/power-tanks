@@ -61,3 +61,17 @@ My last ever Flash game, developed in 2020, the year when [Flash met it's end](h
 3. Drag and drop the `.swf` file in `FlashPlayer.exe`
 ### Linux
 Flash Player for Linux doesn't work too well, so using a Windows virtual machine for Windows steps is recommended. Readily available 12GiB `VHDX` and `QCOW2` images of Windows preinstalled are available [here](https://cloudbase.it/windows-cloud-images/#download). When starting the VM for the first time, the screen might go black for a while, just wait it out. As soon as the desktop is show, follow the Windows instructions above.
+
+<h2> 
+    <img src="./readme-elements/tank-icon.png" width="2.5%" /> 
+    Screenshots
+    <img src="./readme-elements/tank-icon.png" width="2.5%" /> 
+</h2>
+
+<img width="800" height="580" alt="mpv-04_26_08-00_00_03_512-0010" src="https://github.com/user-attachments/assets/4d28595a-d682-42f2-9590-1b788066a24f" />
+<img width="800" height="579" alt="mpv-04_19_56-00_00_03_221-0002" src="https://github.com/user-attachments/assets/4581135d-78a5-410f-9821-c178fb14c655" />
+<img width="800" height="579" alt="mpv-04_21_11-00_00_23_418-0004" src="https://github.com/user-attachments/assets/b86ab774-24dd-4414-bdd6-8b3c9db6eb76" />
+<img width="800" height="576" alt="mpv-04_24_04-00_00_08_392-0006" src="https://github.com/user-attachments/assets/b822654c-f627-494e-b091-e87d8c210c50" />
+<img width="800" height="577" alt="mpv-04_25_36-00_00_02_859-0007" src="https://github.com/user-attachments/assets/de793cef-914e-4f8f-a70f-57fad2b73066" />
+<img width="800" height="580" alt="mpv-04_26_32-00_00_06_414-0011" src="https://github.com/user-attachments/assets/671ecbf2-d381-47d4-932f-10e0f8d01483" />
+<img width="800" height="579" alt="mpv-04_18_39-00_00_00_854-0001" src="https://github.com/user-attachments/assets/6cc47236-bf04-43ff-a2fa-d7de83ec9f44" />
